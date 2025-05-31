@@ -2,7 +2,7 @@
 Hi there, I'm Varun Pillai 👋<br>I’m a UofT Computer Science graduate passionate about solving real world problems 🌍<br>I build scalable microservices with Java Spring Boot, Python and React 🚀<br>I explore AI/ML models and PyTorch for real-time inference 🤖 <br>I am currently learning C++ and high-performance computing ⚙️<br>I am fascinated by quantitative models and financial markets 📈
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varun-spillai) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varunsureshpillai@gmail.com) 
 
 # 💻 Tech Stack:
