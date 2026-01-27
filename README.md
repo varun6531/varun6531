@@ -1,6 +1,6 @@
-# Hey there 👋  I'm Varun Pillai!
+# Hey there 👋  I'm Varun!
 
-🎓 University of Toronto Computer Science graduate passionate about solving real world problems. <br>
+🎓 CS graduate passionate about solving real world problems. <br>
 🚀 Building scalable microservices with Java Spring Boot, Python and React. <br>
 🤖 Exploring AI/ML models and PyTorch for real-time inference. <br>
 ⚙️ Learning C++ and high-performance computing. <br>
