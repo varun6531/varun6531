@@ -3,7 +3,7 @@
 🎓 CS graduate passionate about solving real world problems. <br>
 🚀 Building scalable microservices with Java Spring Boot, Python and React. <br>
 🤖 Exploring AI/ML models and PyTorch for real-time inference. <br>
-⚙️ Learning C++ and high-performance computing. <br>
+⚙️ Learning Rust, C++ and high-performance computing. <br>
 📈 Fascinated by quantitative modeling and financial markets. <br>
 
 ## 🌐 Socials:
